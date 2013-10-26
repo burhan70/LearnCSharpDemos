@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{31D85854-1D00-4FD7-9A12-FA913AFCB639}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LessonDemos", "LessonDemos", "{7D2BBEA7-8FB6-4C47-AE7A-FFBC21733FF7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demos", "Demos", "{7D2BBEA7-8FB6-4C47-AE7A-FFBC21733FF7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerakiLabs.WorkTracker.Starter", "Lab\HerakiLabs.WorkTracker.Starter\HerakiLabs.WorkTracker.Starter.csproj", "{D06D3049-770D-4BD1-B802-1DF5BAA4C188}"
 EndProject
