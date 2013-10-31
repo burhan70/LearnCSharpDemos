@@ -1,19 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{31D85854-1D00-4FD7-9A12-FA913AFCB639}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demos", "Demos", "{7D2BBEA7-8FB6-4C47-AE7A-FFBC21733FF7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerakiLabs.WorkTracker.Starter", "Lab\HerakiLabs.WorkTracker.Starter\HerakiLabs.WorkTracker.Starter.csproj", "{D06D3049-770D-4BD1-B802-1DF5BAA4C188}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerakiLabs.WorkTracker.Site", "Lab\HerakiLabs.WorkTracker.Site\HerakiLabs.WorkTracker.Site.csproj", "{4BC0E8CF-E8F9-4B75-9762-1AA94A8E81F8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerakiLabs.WorkTracker.Site.Tests", "Lab\HerakiLabs.WorkTracker.Site.Tests\HerakiLabs.WorkTracker.Site.Tests.csproj", "{86AFB00E-BE53-4ED6-97D2-299BE74EB7C2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson001", "Demos\Lesson001\Lesson001.csproj", "{81C0CBC3-F2DF-4518-80D0-FB6554495F99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson002", "Demos\Lesson002\Lesson002.csproj", "{456EE348-AEAB-4153-808B-254B173D7D82}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{9AAAF644-DE02-40C0-96D6-B11D7F897540}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,35 +13,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D06D3049-770D-4BD1-B802-1DF5BAA4C188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D06D3049-770D-4BD1-B802-1DF5BAA4C188}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D06D3049-770D-4BD1-B802-1DF5BAA4C188}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D06D3049-770D-4BD1-B802-1DF5BAA4C188}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4BC0E8CF-E8F9-4B75-9762-1AA94A8E81F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4BC0E8CF-E8F9-4B75-9762-1AA94A8E81F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4BC0E8CF-E8F9-4B75-9762-1AA94A8E81F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4BC0E8CF-E8F9-4B75-9762-1AA94A8E81F8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{86AFB00E-BE53-4ED6-97D2-299BE74EB7C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{86AFB00E-BE53-4ED6-97D2-299BE74EB7C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{86AFB00E-BE53-4ED6-97D2-299BE74EB7C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{86AFB00E-BE53-4ED6-97D2-299BE74EB7C2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{81C0CBC3-F2DF-4518-80D0-FB6554495F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{81C0CBC3-F2DF-4518-80D0-FB6554495F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81C0CBC3-F2DF-4518-80D0-FB6554495F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81C0CBC3-F2DF-4518-80D0-FB6554495F99}.Release|Any CPU.Build.0 = Release|Any CPU
-		{456EE348-AEAB-4153-808B-254B173D7D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{456EE348-AEAB-4153-808B-254B173D7D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{456EE348-AEAB-4153-808B-254B173D7D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{456EE348-AEAB-4153-808B-254B173D7D82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{D06D3049-770D-4BD1-B802-1DF5BAA4C188} = {31D85854-1D00-4FD7-9A12-FA913AFCB639}
-		{4BC0E8CF-E8F9-4B75-9762-1AA94A8E81F8} = {31D85854-1D00-4FD7-9A12-FA913AFCB639}
-		{86AFB00E-BE53-4ED6-97D2-299BE74EB7C2} = {31D85854-1D00-4FD7-9A12-FA913AFCB639}
 		{81C0CBC3-F2DF-4518-80D0-FB6554495F99} = {7D2BBEA7-8FB6-4C47-AE7A-FFBC21733FF7}
-		{456EE348-AEAB-4153-808B-254B173D7D82} = {7D2BBEA7-8FB6-4C47-AE7A-FFBC21733FF7}
 	EndGlobalSection
 EndGlobal
