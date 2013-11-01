@@ -5,10 +5,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demos", "Demos", "{7D2BBEA7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson001", "Demos\Lesson001\Lesson001.csproj", "{81C0CBC3-F2DF-4518-80D0-FB6554495F99}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{9AAAF644-DE02-40C0-96D6-B11D7F897540}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{E39341D0-BA7A-4988-A765-349FB5A23420}"
 	ProjectSection(SolutionItems) = preProject
-		..\Resources\Lab01-Solution.pdf = ..\Resources\Lab01-Solution.pdf
-		..\Resources\Lab01.pdf = ..\Resources\Lab01.pdf
+		Docs\Lab01-Solution.pdf = Docs\Lab01-Solution.pdf
+		Docs\Lab01.pdf = Docs\Lab01.pdf
 	EndProjectSection
 EndProject
 Global
