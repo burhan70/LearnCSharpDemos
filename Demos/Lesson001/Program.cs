@@ -17,7 +17,7 @@ namespace Lesson001
             var age = Console.ReadLine();
 
             Console.WriteLine(name + ",Welcome to C#, your age is: " + age + ".");
-            Console.WriteLine("{0},welcome to c#, your age is: {1}.", name, age);   
+            Console.WriteLine("{0},Welcome to C#, your age is: {1}.", name, age);   
         }
     }
 }
